@@ -48,12 +48,4 @@
   📕 Currently learning more about HTML canvas.
 </p>
 
-<details>
-  <summary>Some extra stats</summary><br/>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBrossois&size_weight=0.5&count_weight=0.5)
-
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mBrossois)](https://github.com/mBrossois/github-readme-stats)
-
-
-</details>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBrossois&size_weight=0.5&count_weight=0.5)
