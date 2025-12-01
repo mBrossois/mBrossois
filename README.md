@@ -1,6 +1,6 @@
 <div>
   <div>
-    <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=mBrossois&hide=stars,contribs&show_icons=true&line_height=20&show_owner=true&theme=synthwave"/>
+    <img align="left" width="490" height="165" src="https://github-readme-stats-pi-eight-65.vercel.app/api?username=mBrossois&hide=stars,contribs&show_icons=true&line_height=20&show_owner=true&theme=synthwave"/>
     <div>
       <div>
         <img src="https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=Cursor&logoColor=white"/>
